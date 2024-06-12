@@ -1,11 +1,11 @@
-# XLM for Salesforce
+# SUI for Salesforce
 
 ## Overview
 [Web3 Enabler](https://web3enabler.com) empowers enterprise users to send and accept crypto payments on the world’s leading CRM, ERP and BI software, with just one click. We handle the complexities of Web3 so that our users can reap the benefits of cryptocurrencies, without the steep learning curve. 
 
 ## Technical Architecture
 
-This [technical architecture diagram](assets/xlm-for-salesforce-architecture.png) provides an overview of how we intend to utilize Stellar and Salesforce tools in the development of this project.
+This [technical architecture diagram](assets/sui-for-salesforce-architecture.png) provides an overview of how we intend to utilize Stellar and Salesforce tools in the development of this project.
 
 
 Check out the following UX diagrams:
