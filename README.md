@@ -5,12 +5,10 @@
 
 ## Technical Architecture
 
-This [technical architecture diagram](assets/sui-for-salesforce-architecture.png) provides an overview of how we intend to utilize Stellar and Salesforce tools in the development of this project.
-
 
 Check out the following UX diagrams:
 
-* [Web3 Enabler Non-Admin Flowchart](https://github.com/MuKnSys/cryptocurrency-for-salesforce/blob/main/assets/web3_enabler_non-admin_flowchart.png)
+* [Web3 Enabler Non-Admin Flowchart](https://github.com/MuKnSys/sui-for-salesforce/blob/main/assets/web3_enabler_non-admin_flowchart.png)
 * See the [Web3 Enabler Admin Flowchart](https://github.com/MuKnSys/sui-for-salesforce/blob/main/assets/web3_enabler_admin_flowchart.png) to get full view of a Web3 Enabler Admin.
   
 
