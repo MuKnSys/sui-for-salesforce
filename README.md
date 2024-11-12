@@ -5,7 +5,7 @@
 ## An Overview of Sui and Blockchain 
 [Web3 Enabler](https://web3enabler.com) empowers enterprise users to send and accept crypto payments on the world’s leading CRM, ERP and BI software, with just one click. We handle the complexities of Web3 so that our users can reap the benefits of cryptocurrencies, without the steep learning curve. 
 
-[Salesforce Administrator Guide to Cryptocurrencies](
+[Salesforce Administrator Guide to Cryptocurrencies](https://github.com/MuKnSys/sui-for-salesforce/blob/main/assets/SUI%20for%20Salesforce%20by%20Web3%20Enabler%20-%20Salesforce%20Administrator%20Guide%20to%20Cryptocurrencies.pdf)
 
 ## Technical Architecture
 
