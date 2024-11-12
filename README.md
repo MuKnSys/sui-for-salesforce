@@ -18,7 +18,7 @@ Check out the following UX diagrams:
 
 ## Salesforce Project and Salesforce Org Wallet Explanation and Setup
 
-[guide](https://github.com/MuKnSys/sui-for-salesforce/blob/main/assets/SUI%20for%20Salesforce%20by%20Web3%20Enabler%20-%20Salesforce%20Project%20and%20Salesforce%20Org%20Wallet%20Explanation%20and%20Setup.pdf)
+Follow these simple [steps](https://github.com/MuKnSys/sui-for-salesforce/blob/main/assets/SUI%20for%20Salesforce%20by%20Web3%20Enabler%20-%20Salesforce%20Project%20and%20Salesforce%20Org%20Wallet%20Explanation%20and%20Setup.pdf) to install SUI for Salesforce from source.
 
 ## Copyright and License
 
