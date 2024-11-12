@@ -22,4 +22,4 @@ Follow these simple [steps](https://github.com/MuKnSys/sui-for-salesforce/blob/m
 
 ## Copyright and License
 
-Copyright 2023 Mutual Knowledge Systems, Inc.  XRP Salesforce is distributed under the GPL licence, version 3.0.  For more information, see the [LICENSE file](LICENSE).
+Copyright 2023 Mutual Knowledge Systems, Inc.  SUI Salesforce is distributed under the GPL licence, version 3.0.  For more information, see the [LICENSE file](LICENSE).
